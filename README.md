@@ -1,4 +1,7 @@
-# README
+# DESCRIPTION
+Ce mini projet vise a implémenter les web socket en ruby on rails  
+
+## DEPENDENCES
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
